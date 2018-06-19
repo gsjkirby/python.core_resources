@@ -6,6 +6,7 @@ Created on Tue Jun 19 10:56:00 2018
 @author: georginakirby
 
 Tutorial: https://www.youtube.com/watch?v=_T0l015ecK4
+There is a slight issue with reading in the data from google sometimes
 
 """
 
