@@ -19,7 +19,6 @@ y = dataset.iloc[:,1].values
 # Splitting the dataset into the Training set and Test set
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.33, random_state = 0)
 
-
 # Fitting Simple Linear Regression to the Training set (feature scaling is not 
 # needed as it is included in the library)
 regressor = LinearRegression()
